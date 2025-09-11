@@ -1,7 +1,7 @@
 # Resolvendo conflitos
 
 - Troca para a branch main
-- `git pul` para atualizar a branch main (pegar a mais atual do GitHub)
+- `git pull` para atualizar a branch main (pegar a mais atual do GitHub)
 
 - Trocar (voltar) para a sua branch
 - `git merge main` para juntar as alterações
